@@ -1,0 +1,13 @@
+button{
+    font-size: 28px;
+    font-family: Helvetia, "Times New Roman", sans-serif;
+}
+
+.bwbutton{
+    background-color: black;
+    color: white;
+}
+
+.ybbutton{
+    background-color: yellow;
+}
